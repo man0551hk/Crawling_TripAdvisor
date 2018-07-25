@@ -1,0 +1,12 @@
+\\Mac\Home\Documents\private_github\TripAdvisor_Crawling\TripAdvisor_Crawling\bin\Debug\TripAdvisor_Crawling.exe.config
+\\Mac\Home\Documents\private_github\TripAdvisor_Crawling\TripAdvisor_Crawling\obj\Debug\TripAdvisor_Crawling.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\private_github\TripAdvisor_Crawling\TripAdvisor_Crawling\bin\Debug\TripAdvisor_Crawling.exe
+\\Mac\Home\Documents\private_github\TripAdvisor_Crawling\TripAdvisor_Crawling\bin\Debug\TripAdvisor_Crawling.pdb
+\\Mac\Home\Documents\private_github\TripAdvisor_Crawling\TripAdvisor_Crawling\bin\Debug\HtmlAgilityPack.dll
+\\Mac\Home\Documents\private_github\TripAdvisor_Crawling\TripAdvisor_Crawling\bin\Debug\MySql.Data.Entity.EF6.dll
+\\Mac\Home\Documents\private_github\TripAdvisor_Crawling\TripAdvisor_Crawling\bin\Debug\MySql.Fabric.Plugin.dll
+\\Mac\Home\Documents\private_github\TripAdvisor_Crawling\TripAdvisor_Crawling\bin\Debug\HtmlAgilityPack.pdb
+\\Mac\Home\Documents\private_github\TripAdvisor_Crawling\TripAdvisor_Crawling\bin\Debug\HtmlAgilityPack.xml
+\\Mac\Home\Documents\private_github\TripAdvisor_Crawling\TripAdvisor_Crawling\bin\Debug\MySql.Data.Entity.EF6.xml
+\\Mac\Home\Documents\private_github\TripAdvisor_Crawling\TripAdvisor_Crawling\obj\Debug\TripAdvisor_Crawling.exe
+\\Mac\Home\Documents\private_github\TripAdvisor_Crawling\TripAdvisor_Crawling\obj\Debug\TripAdvisor_Crawling.pdb
